@@ -1,0 +1,6 @@
+Login via firebase
+
+marciocamollez@...
+Senha 1...
+
+Caso o usuario nao seja encontrado, a mensagem de erro é exibida no console.log do navegador
